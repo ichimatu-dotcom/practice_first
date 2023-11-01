@@ -12,3 +12,5 @@ $SimpComp$と同様に、射が写像であることを利用し他の条件を�
 以上より$Vect$を圏として定義suru。\\
 
 asafds
+
+unlaucky
