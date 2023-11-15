@@ -1,5 +1,4 @@
 \\
-シマダのかきこみ
 次に、$SimpComp$(単体複体の圏)を定義する。\\
 対象：単体複体 (ex. $K, L$)\\
 射：単体写像   (ex. $K\rightarrow L$)\\
@@ -20,3 +19,7 @@ asafds
 unlaucky
 
 you deprive me of my heart.
+
+the light on my heart is eliminated.
+
+but, I get my own illumination.
